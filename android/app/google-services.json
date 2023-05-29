@@ -1,0 +1,162 @@
+{
+  "project_info": {
+    "project_number": "824637813580",
+    "project_id": "simlab-project",
+    "storage_bucket": "simlab-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824637813580:android:a3460db6923a8d65c015e9",
+        "android_client_info": {
+          "package_name": "com.example.contoh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824637813580-q8go2oe25coomq6evq8e8e91qkjkreul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.contoh",
+            "certificate_hash": "ea8fc22c8ca374c9855696fe943d51034f3186ad"
+          }
+        },
+        {
+          "client_id": "824637813580-blv25pe71j68mqgi9o6oe8v87mpuk506.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdMolXH5EzoBcZ3Z0bNk0pLhRFLPrmMuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824637813580-blv25pe71j68mqgi9o6oe8v87mpuk506.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "824637813580-5m8o7sjugeino8djppe1d87grp04f63g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eCommers"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824637813580:android:5f6735c84eace423c015e9",
+        "android_client_info": {
+          "package_name": "com.example.e_commers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824637813580-blv25pe71j68mqgi9o6oe8v87mpuk506.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdMolXH5EzoBcZ3Z0bNk0pLhRFLPrmMuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824637813580-blv25pe71j68mqgi9o6oe8v87mpuk506.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "824637813580-5m8o7sjugeino8djppe1d87grp04f63g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eCommers"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824637813580:android:cc38de26c2e57872c015e9",
+        "android_client_info": {
+          "package_name": "com.example.simlab_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824637813580-blv25pe71j68mqgi9o6oe8v87mpuk506.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdMolXH5EzoBcZ3Z0bNk0pLhRFLPrmMuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824637813580-blv25pe71j68mqgi9o6oe8v87mpuk506.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "824637813580-5m8o7sjugeino8djppe1d87grp04f63g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eCommers"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824637813580:android:4840dd2e3a28901bc015e9",
+        "android_client_info": {
+          "package_name": "com.example.tes_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824637813580-blv25pe71j68mqgi9o6oe8v87mpuk506.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdMolXH5EzoBcZ3Z0bNk0pLhRFLPrmMuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824637813580-blv25pe71j68mqgi9o6oe8v87mpuk506.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "824637813580-5m8o7sjugeino8djppe1d87grp04f63g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eCommers"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
